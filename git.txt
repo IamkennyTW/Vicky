@@ -1,0 +1,11 @@
+不同電腦先用
+git pull 同步檔案
+
+接著結束之後保存
+git add .
+
+增加今天幹了什嗎
+git commit -m "隨便你打"
+
+保存到雲端
+git push 
